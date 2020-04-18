@@ -10,4 +10,4 @@
 0. 只用randint函数，模仿实现random库中的shuffle函数（随机排序）功能
 
 
-本ReadMe后续由python脚本解析notebook内容自动生成
+本ReadMe后续将由python脚本解析notebook内容自动生成
