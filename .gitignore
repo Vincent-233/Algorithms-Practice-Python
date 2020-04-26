@@ -139,3 +139,5 @@ dmypy.json
 .pyre/
 .vscode/settings.json
 
+Chapter02-面向对象编程/Note/主题1.md
+Chapter03-递归/Code/temp.py
