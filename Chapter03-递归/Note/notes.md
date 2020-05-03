@@ -12,7 +12,7 @@
 - designing recursive algorithms 
     - test for base cases
     - if not a base case, perform one or more recursive calss. 
-    -  redefine the original problem to facilitate similar-looking subproblems, usually involve reparameterizing the function
+    - redefine the original problem to facilitate similar-looking subproblems, usually involve reparameterizing the function
 
 - 关于尾递归
     - 尾递归优化后（若支持）可以减少过多调用堆栈的开销
